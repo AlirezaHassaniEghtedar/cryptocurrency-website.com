@@ -4,4 +4,4 @@ Website URL : https://alirezahassanieghtedar.github.io/cryptocurrency-website.co
 
 This is a cool project coded by HTML-CSS-JS
 
-<img src:"https://github.com/AlirezaHassaniEghtedar/cryptocurrency-website.com/blob/main/cryptocurrency-website.com.png">
+![Website Screenshot](cryptocurrency-website.com.png)
