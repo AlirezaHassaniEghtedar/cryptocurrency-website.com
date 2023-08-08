@@ -5,3 +5,10 @@ Website URL : https://alirezahassanieghtedar.github.io/cryptocurrency-website.co
 This is a cool project coded by HTML-CSS-JS
 
 ![Website Screenshot](cryptocurrency-website.com.png)
+
+<br><br>
+
+Responsive Design Screenshot 
+
+
+![Website Screenshot](cryptocurrency-website.com.png)
