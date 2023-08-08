@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    background-color: #0F002B;
+}
+
 .container {
     width: 100%;
     height: 100vh;
@@ -137,4 +141,65 @@ nav ul li a {
 
 .update-prices i {
     font-size: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        padding: 0 4%;
+    }
+
+    .logo {
+        width: 40px;
+    }
+
+    nav ul li {
+        margin: 10px 5px;
+        font-size: 14px;
+    }
+
+    .language-btn {
+        font-size: 14px;
+        padding: 7px 21px;
+    }
+
+    .content {
+        margin-top: 7%;
+        margin-left: 4%;
+    }
+
+    .content h1 {
+        font-size: 44px;
+        margin-bottom: 7.5px;
+    }
+
+    .update-prices {
+        margin-left: 4%;
+        max-width: unset;
+        width: 95%;
+        justify-content: center;
+    }
+
+    .coin-list {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        position: absolute;
+        bottom: 20px;
+        left: 0;
+        width: 100%;
+        height: 25%;
+    }
+
+    .coin {
+        width: 30%;
+        margin: 1%;
+        padding: 2%;
+    }
+
+    
+    .coin img {
+        width: 30px;
+    }
 }
