@@ -10,4 +10,4 @@ This is a cool project coded by HTML-CSS-JS
 
 Responsive Design Screenshot
 
-![Website Screenshot](cryptocurrency-website.com.png)
+![Website Screenshot](Responsive-Design.png)
