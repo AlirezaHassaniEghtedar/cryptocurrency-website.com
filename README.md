@@ -8,6 +8,6 @@ This is a cool project coded by HTML-CSS-JS
 
 <br><br>
 
-Responsive Design Screenshot 
+Responsive Design Screenshot
 
 ![Website Screenshot](cryptocurrency-website.com.png)
