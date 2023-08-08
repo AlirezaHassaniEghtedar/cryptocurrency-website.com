@@ -182,6 +182,11 @@ nav ul li a {
         max-width: unset;
         width: 95%;
         justify-content: center;
+        font-size: 10px;
+    }
+
+    .update-prices p {
+        margin-right: 5px;
     }
 
     .coin-list {

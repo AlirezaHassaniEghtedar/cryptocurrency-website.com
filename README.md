@@ -8,6 +8,6 @@ This is a cool project coded by HTML-CSS-JS
 
 <br><br>
 
-Responsive Design Screenshot
+Responsive Test - Responsive Design Screenshot
 
 ![Website Screenshot](./images/Responsive-Design.png)
