@@ -204,4 +204,8 @@ nav ul li a {
         width: 30px;
         margin-right: 7px;
     }
+
+    .coin h3 {
+        font-size: 14px;
+    }
 }
