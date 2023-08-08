@@ -145,12 +145,12 @@ nav ul li a {
 
 @media only screen and (max-width: 412px) {
     .container {
-        padding: 0 4%;
+        padding: 0 2%;
     }
 
     .logo {
         width: 40px;
-        margin-right: 20px;
+        margin-right: 15px;
     }
 
     nav ul li {
